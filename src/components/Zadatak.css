@@ -1,0 +1,19 @@
+.zadatak__container {
+  display: flex;
+  gap: 2rem;
+}
+
+ul {
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+.crossed {
+  text-decoration: line-through;
+}
+
+.notCrossed {
+  text-decoration: none;
+}
